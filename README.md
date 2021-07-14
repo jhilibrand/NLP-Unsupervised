@@ -4,7 +4,7 @@ Question:
 Is there insight to be gained about retail flow from the WallStreetBets subreddit? 
 
 Data Description: 
-My primary data set will be top posts from the WallStreetBets subreddit and Yahoo Finance. I am to pull two primary sets of data: 
+My primary data set will be top posts from the WallStreetBets subreddit and Yahoo Finance. I aim to pull two primary sets of data: 
 1) the top posts *that have tickers in the title* over H1 2021. With this data I aim to overlay the Yfinance library and sentiment analysis to see if there is any predictive modeling that is possible. 
 2) the top X posts from H1 2021, without the ticker condition. For this set, I am to do a basic topic modeling to understand what drives teh discssion on this page. 
 
